@@ -1,0 +1,11 @@
+C:\Users\Guilherme\Documents\Projetos Casuais\DarkSoulsBuilds\DarkSoulsBuilds\bin\Debug\netcoreapp2.1\DarkSoulsBuilds.deps.json
+C:\Users\Guilherme\Documents\Projetos Casuais\DarkSoulsBuilds\DarkSoulsBuilds\bin\Debug\netcoreapp2.1\DarkSoulsBuilds.runtimeconfig.json
+C:\Users\Guilherme\Documents\Projetos Casuais\DarkSoulsBuilds\DarkSoulsBuilds\bin\Debug\netcoreapp2.1\DarkSoulsBuilds.runtimeconfig.dev.json
+C:\Users\Guilherme\Documents\Projetos Casuais\DarkSoulsBuilds\DarkSoulsBuilds\bin\Debug\netcoreapp2.1\DarkSoulsBuilds.dll
+C:\Users\Guilherme\Documents\Projetos Casuais\DarkSoulsBuilds\DarkSoulsBuilds\bin\Debug\netcoreapp2.1\DarkSoulsBuilds.pdb
+C:\Users\Guilherme\Documents\Projetos Casuais\DarkSoulsBuilds\DarkSoulsBuilds\obj\Debug\netcoreapp2.1\DarkSoulsBuilds.csprojAssemblyReference.cache
+C:\Users\Guilherme\Documents\Projetos Casuais\DarkSoulsBuilds\DarkSoulsBuilds\obj\Debug\netcoreapp2.1\DarkSoulsBuilds.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Documents\Projetos Casuais\DarkSoulsBuilds\DarkSoulsBuilds\obj\Debug\netcoreapp2.1\DarkSoulsBuilds.AssemblyInfoInputs.cache
+C:\Users\Guilherme\Documents\Projetos Casuais\DarkSoulsBuilds\DarkSoulsBuilds\obj\Debug\netcoreapp2.1\DarkSoulsBuilds.AssemblyInfo.cs
+C:\Users\Guilherme\Documents\Projetos Casuais\DarkSoulsBuilds\DarkSoulsBuilds\obj\Debug\netcoreapp2.1\DarkSoulsBuilds.dll
+C:\Users\Guilherme\Documents\Projetos Casuais\DarkSoulsBuilds\DarkSoulsBuilds\obj\Debug\netcoreapp2.1\DarkSoulsBuilds.pdb
