@@ -8,12 +8,11 @@ namespace DarkSoulsBuilds
         {
             Console.WriteLine("Hello World!");
 
-
             Armas arma = new Armas();
 
+            arma.ondeDevoEstar();
+
             Console.ReadLine();
-
-
         }
     }
 }
