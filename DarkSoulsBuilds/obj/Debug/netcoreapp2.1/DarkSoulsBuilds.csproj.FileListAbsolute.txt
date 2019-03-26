@@ -9,3 +9,14 @@ C:\Users\Guilherme\Documents\Projetos Casuais\DarkSoulsBuilds\DarkSoulsBuilds\ob
 C:\Users\Guilherme\Documents\Projetos Casuais\DarkSoulsBuilds\DarkSoulsBuilds\obj\Debug\netcoreapp2.1\DarkSoulsBuilds.AssemblyInfo.cs
 C:\Users\Guilherme\Documents\Projetos Casuais\DarkSoulsBuilds\DarkSoulsBuilds\obj\Debug\netcoreapp2.1\DarkSoulsBuilds.dll
 C:\Users\Guilherme\Documents\Projetos Casuais\DarkSoulsBuilds\DarkSoulsBuilds\obj\Debug\netcoreapp2.1\DarkSoulsBuilds.pdb
+H:\Arquivos\Guigui\DarkSoulsBuilds\DarkSoulsBuilds\bin\Debug\netcoreapp2.1\DarkSoulsBuilds.deps.json
+H:\Arquivos\Guigui\DarkSoulsBuilds\DarkSoulsBuilds\bin\Debug\netcoreapp2.1\DarkSoulsBuilds.runtimeconfig.json
+H:\Arquivos\Guigui\DarkSoulsBuilds\DarkSoulsBuilds\bin\Debug\netcoreapp2.1\DarkSoulsBuilds.runtimeconfig.dev.json
+H:\Arquivos\Guigui\DarkSoulsBuilds\DarkSoulsBuilds\bin\Debug\netcoreapp2.1\DarkSoulsBuilds.dll
+H:\Arquivos\Guigui\DarkSoulsBuilds\DarkSoulsBuilds\bin\Debug\netcoreapp2.1\DarkSoulsBuilds.pdb
+H:\Arquivos\Guigui\DarkSoulsBuilds\DarkSoulsBuilds\obj\Debug\netcoreapp2.1\DarkSoulsBuilds.csprojAssemblyReference.cache
+H:\Arquivos\Guigui\DarkSoulsBuilds\DarkSoulsBuilds\obj\Debug\netcoreapp2.1\DarkSoulsBuilds.csproj.CoreCompileInputs.cache
+H:\Arquivos\Guigui\DarkSoulsBuilds\DarkSoulsBuilds\obj\Debug\netcoreapp2.1\DarkSoulsBuilds.AssemblyInfoInputs.cache
+H:\Arquivos\Guigui\DarkSoulsBuilds\DarkSoulsBuilds\obj\Debug\netcoreapp2.1\DarkSoulsBuilds.AssemblyInfo.cs
+H:\Arquivos\Guigui\DarkSoulsBuilds\DarkSoulsBuilds\obj\Debug\netcoreapp2.1\DarkSoulsBuilds.dll
+H:\Arquivos\Guigui\DarkSoulsBuilds\DarkSoulsBuilds\obj\Debug\netcoreapp2.1\DarkSoulsBuilds.pdb

@@ -6,13 +6,14 @@ namespace DarkSoulsBuilds
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
 
-            Armas arma = new Armas();
+            Controller control = new Controller();
 
-            arma.ondeDevoEstar();
+            Creator criador = new Creator();
 
-            Console.ReadLine();
+            control.comeco();
+
+
         }
     }
 }
